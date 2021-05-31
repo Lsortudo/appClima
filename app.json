@@ -1,0 +1,12 @@
+{
+  "name": "appClima",
+  "displayName": "appClima",
+  "expo": {
+    "name": "appClima",
+    "slug": "appClima",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
